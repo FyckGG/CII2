@@ -1,0 +1,11 @@
+C:\Users\м\Desktop\СИИ\SI_Lab1\bin\Debug\SI_Lab1.exe.config
+C:\Users\м\Desktop\СИИ\SI_Lab1\bin\Debug\SI_Lab1.exe
+C:\Users\м\Desktop\СИИ\SI_Lab1\bin\Debug\SI_Lab1.pdb
+C:\Users\м\Desktop\СИИ\SI_Lab1\obj\Debug\SI_Lab1.csproj.AssemblyReference.cache
+C:\Users\м\Desktop\СИИ\SI_Lab1\obj\Debug\SI_Lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\м\Desktop\СИИ\SI_Lab1\obj\Debug\SI_Lab1.Form1.resources
+C:\Users\м\Desktop\СИИ\SI_Lab1\obj\Debug\SI_Lab1.Properties.Resources.resources
+C:\Users\м\Desktop\СИИ\SI_Lab1\obj\Debug\SI_Lab1.csproj.GenerateResource.cache
+C:\Users\м\Desktop\СИИ\SI_Lab1\obj\Debug\SI_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\м\Desktop\СИИ\SI_Lab1\obj\Debug\SI_Lab1.exe
+C:\Users\м\Desktop\СИИ\SI_Lab1\obj\Debug\SI_Lab1.pdb
